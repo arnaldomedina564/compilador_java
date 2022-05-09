@@ -1,2 +1,4 @@
 # compilador_java
-Curso compiladores
+Programa hecho en java
+## Desarrollado
+Arnaldo Medina 
